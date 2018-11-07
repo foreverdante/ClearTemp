@@ -4,11 +4,9 @@
 ## 11.01.18 -> Adjusted pathway for C:\Windows\Temp
 
 
-import os, sys
-import base64
-import getpass
+import os
 import re
-
+import admin
 
 class DeleteTempFiles(object):
 
@@ -17,7 +15,6 @@ class DeleteTempFiles(object):
         self.path = path
         self.username = username
         self.password = password
-
 
     def deleteUserTemp(path):
         for root, dirs, files in os.walk(path):
@@ -52,8 +49,10 @@ if __name__ == "__main__":
     #
     # if adminUsername in open('credentials.txt').readlines():
     DeleteTempFiles.deleteWindozeTemp(pathDict['windowsPath'])
-    # else:
+    # DeleteTempFiles.deleteWindozeTemp(pathDict['windowsPath'])
+    # # else:
     DeleteTempFiles.deleteUserTemp(pathDict['userPath'])
+    # DeleteTempFiles.deleteUserTemp(pathDict['userPath'])
 
 
 
