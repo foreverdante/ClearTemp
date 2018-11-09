@@ -2,65 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="581b6a35-204a-4198-860e-3ed543f6d3d2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/runas.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ClearTemp.py" beforeDir="false" afterPath="$PROJECT_DIR$/ClearTemp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClearTemp.spec" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ClearTemp/Analysis-00.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ClearTemp/COLLECT-00.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ClearTemp/ClearTemp.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ClearTemp/ClearTemp.exe.manifest" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ClearTemp/EXE-00.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ClearTemp/PKG-00.pkg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ClearTemp/PKG-00.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ClearTemp/PYZ-00.pyz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ClearTemp/PYZ-00.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ClearTemp/base_library.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ClearTemp/warn-ClearTemp.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ClearTemp/xref-ClearTemp.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/newfiles/Analysis-00.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/newfiles/COLLECT-00.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/newfiles/EXE-00.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/newfiles/PKG-00.pkg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/newfiles/PKG-00.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/newfiles/PYZ-00.pyz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/newfiles/PYZ-00.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/newfiles/base_library.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/newfiles/newfiles.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/newfiles/newfiles.exe.manifest" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/newfiles/warn-newfiles.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/newfiles/xref-newfiles.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/ClearTemp/ClearTemp.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/ClearTemp/ClearTemp.exe.manifest" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/ClearTemp/VCRUNTIME140.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/ClearTemp/_bz2.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/ClearTemp/_hashlib.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/ClearTemp/_lzma.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/ClearTemp/_socket.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/ClearTemp/_ssl.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/ClearTemp/base_library.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/ClearTemp/libcrypto-1_1-x64.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/ClearTemp/libssl-1_1-x64.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/ClearTemp/newfiles/VCRUNTIME140.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/ClearTemp/newfiles/_bz2.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/ClearTemp/newfiles/_hashlib.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/ClearTemp/newfiles/_lzma.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/ClearTemp/newfiles/_socket.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/ClearTemp/newfiles/_ssl.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/ClearTemp/newfiles/base_library.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/ClearTemp/newfiles/libcrypto-1_1-x64.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/ClearTemp/newfiles/libssl-1_1-x64.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/ClearTemp/newfiles/newfiles.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/ClearTemp/newfiles/newfiles.exe.manifest" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/ClearTemp/newfiles/pyexpat.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/ClearTemp/newfiles/python37.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/ClearTemp/newfiles/select.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/ClearTemp/newfiles/unicodedata.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/ClearTemp/pyexpat.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/ClearTemp/python37.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/ClearTemp/select.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/ClearTemp/unicodedata.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runas.py" beforeDir="false" afterPath="$PROJECT_DIR$/runas.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -72,18 +16,19 @@
     <session id="-1593818427">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.15" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="groovy" value="1" />
           <entry key="md" value="3" />
-          <entry key="py" value="17" />
+          <entry key="py" value="26" />
           <entry key="spec" value="1" />
           <entry key="txt" value="1" />
         </counts>
@@ -92,15 +37,15 @@
         <counts>
           <entry key="Markdown" value="3" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="17" />
+          <entry key="Python" value="26" />
           <entry key="Scratch" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="978" />
+          <entry key="Python Console" value="1048" />
           <entry key="md" value="42" />
-          <entry key="py" value="8747" />
+          <entry key="py" value="9139" />
           <entry key="txt" value="53" />
         </counts>
       </usages-collector>
@@ -108,7 +53,7 @@
         <counts>
           <entry key="Markdown" value="42" />
           <entry key="PLAIN_TEXT" value="21" />
-          <entry key="Python" value="9725" />
+          <entry key="Python" value="10187" />
           <entry key="Scratch" value="32" />
         </counts>
       </usages-collector>
@@ -116,11 +61,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ClearTemp.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+            <state relative-caret-position="119">
+              <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
               <folding>
                 <element signature="e#164#173#0" expanded="true" />
               </folding>
@@ -128,35 +73,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="17">
-                <caret line="1" column="41" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/newfiles.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/runas.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ldap.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="32" column="40" selection-start-line="32" selection-start-column="40" selection-end-line="32" selection-end-column="40" />
-              <folding>
-                <element signature="e#70#82#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="408">
+              <caret line="60" column="40" selection-start-line="60" selection-start-column="40" selection-end-line="60" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -169,6 +90,11 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>IsU</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -186,6 +112,7 @@
         <option value="$PROJECT_DIR$/newfiles.py" />
         <option value="$PROJECT_DIR$/test_deleteTempFiles.py" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/CredentialManager.py" />
         <option value="$PROJECT_DIR$/ClearTemp.py" />
         <option value="$PROJECT_DIR$/runas.py" />
       </list>
@@ -203,7 +130,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -215,6 +141,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -242,7 +169,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ClearTemp">
+  <component name="RunManager" selected="Python.runas">
     <configuration name="ClearTemp" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ClearTemp" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -264,7 +191,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="active_directory" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="RunAsAdmin" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ClearTemp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -276,28 +203,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/active_directory.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ldap" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="ClearTemp" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ldap.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RunAsAdmin.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -327,6 +233,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="runas" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ClearTemp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/runas.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Unittests in test_deleteTempFiles.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="ClearTemp" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -342,19 +269,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.active_directory" />
-      <item itemvalue="Python.ldap" />
       <item itemvalue="Python.ClearTemp" />
       <item itemvalue="Python.newfiles" />
       <item itemvalue="Python tests.Unittests in test_deleteTempFiles.py" />
+      <item itemvalue="Python.runas" />
+      <item itemvalue="Python.RunAsAdmin" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.runas" />
+        <item itemvalue="Python.RunAsAdmin" />
         <item itemvalue="Python.ClearTemp" />
         <item itemvalue="Python.newfiles" />
         <item itemvalue="Python tests.Unittests in test_deleteTempFiles.py" />
-        <item itemvalue="Python.ldap" />
-        <item itemvalue="Python.active_directory" />
       </list>
     </recent_temporary>
   </component>
@@ -401,12 +328,12 @@
     <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24762908" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49924126" visible="true" weight="0.24762908" />
+      <window_info id="Structure" order="1" sideWeight="0.5007587" side_tool="true" weight="0.24762908" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32980973" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31496882" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31496882" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39262474" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -414,7 +341,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.3438178" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50105375" side_tool="true" weight="0.32952183" />
-      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49894625" weight="0.3286334" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49894625" weight="0.32848233" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -433,22 +360,22 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/ClearTemp.py</url>
-          <line>18</line>
+          <line>17</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/ClearTemp.py</url>
-          <line>50</line>
+          <line>49</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/ClearTemp.py</url>
-          <line>32</line>
+          <line>31</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/ClearTemp.py</url>
-          <line>41</line>
+          <line>40</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
@@ -472,28 +399,9 @@
     <entry file="file://$PROJECT_DIR$/active_directory.py" />
     <entry file="file://$PROJECT_DIR$/oscheck.py" />
     <entry file="file://$PROJECT_DIR$/testDoc.py" />
-    <entry file="file://$PROJECT_DIR$/RunAsAdmin.py" />
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/ldap3/core/connection.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="1456" selection-start-line="1456" selection-end-line="1456" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/ldap3/protocol/convert.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="157" selection-start-line="157" selection-end-line="157" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/ldap3/utils/config.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="155" selection-start-line="155" selection-end-line="155" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/ldap3/core/connection.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/ldap3/protocol/convert.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/ldap3/utils/config.py" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/ide/ide-scripting.groovy" />
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/codecs.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -502,13 +410,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ClearTemp.spec">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/ClearTemp.spec" />
     <entry file="file://$PROJECT_DIR$/credentials.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -516,39 +418,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ldap.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="40" selection-start-line="32" selection-start-column="40" selection-end-line="32" selection-end-column="40" />
-          <folding>
-            <element signature="e#70#82#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_deleteTempFiles.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#48#77#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="17">
-            <caret line="1" column="41" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test_deleteTempFiles.py" />
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/re.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="178">
           <caret line="172" selection-start-line="172" selection-end-line="172" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CredentialManager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RunAsAdmin.py" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="34">
+            <caret line="2" column="122" selection-start-line="2" selection-start-column="122" selection-end-line="2" selection-end-column="122" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
@@ -559,20 +451,61 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/runas.py">
+    <entry file="file://$PROJECT_DIR$/ldap.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="527">
+          <caret line="32" column="40" selection-start-line="32" selection-start-column="40" selection-end-line="32" selection-end-column="40" />
+          <folding>
+            <element signature="e#70#82#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/-79135803/win32comext/authorization/authorization.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/-79135803/win32comext/shell/shell.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="63" column="12" lean-forward="true" selection-start-line="63" selection-start-column="4" selection-end-line="63" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/win32/lib/win32con.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="127" column="8" selection-start-line="127" selection-start-column="8" selection-end-line="127" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/win32/lib/pywintypes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1581" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/ctypes/util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2805">
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ClearTemp.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        <state relative-caret-position="119">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
           <folding>
             <element signature="e#164#173#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="60" column="40" selection-start-line="60" selection-start-column="40" selection-end-line="60" selection-end-column="40" />
         </state>
       </provider>
     </entry>

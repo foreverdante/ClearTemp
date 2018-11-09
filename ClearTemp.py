@@ -6,7 +6,6 @@
 
 import os
 import re
-import admin
 
 class DeleteTempFiles(object):
 
